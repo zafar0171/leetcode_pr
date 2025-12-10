@@ -1,0 +1,6 @@
+
+
+Well hello there, STDOUT.
+
+
+echo $PATH
