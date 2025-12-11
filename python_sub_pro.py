@@ -30,6 +30,6 @@ my_env = os.environ.copy()
 
 my_env["PATH"] = os.pathsep.join(["/my_app", my_env["PATH"]])
 
-#result = subprocess.run(["myapp"], env=my_env)
+result = subprocess.run(["myapp"], env=my_env)
 
-print(my_env)
+print(result)
