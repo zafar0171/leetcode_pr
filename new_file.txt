@@ -1,0 +1,30 @@
+
+
+#!/usr/bin/bash
+
+
+#ls -l | wc- l
+
+
+#ls -l > dir_info.txt
+
+#ls new_dir_sub && echo "folder exists"
+
+
+#import subprocess
+
+#result = subprocess.run("ls -l | wc -l", shell=True, text=True, capture_output=True)
+
+#print(result.stdout)
+
+
+#sort
+#less
+#grep
+
+#2> /dev/null
+
+
+#tail -f
+
+#history | grep echo
