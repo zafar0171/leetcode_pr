@@ -22,9 +22,11 @@
 #l -move right
 
 
-y -
-yw -
-yy
-p -
-x - delete a word
-dd -delete a line
+#y -
+# yw -
+# yy
+# p -
+# x - delete a word
+# dd -delete a line
+
+
