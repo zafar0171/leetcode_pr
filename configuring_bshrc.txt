@@ -1,0 +1,26 @@
+
+
+get into conseole.
+
+
+1) first check shell,
+   --echo $SHELL
+
+2) ls -la ~/,
+ -- check the contents inside
+
+3) Edit .bashrc file
+
+  --we can add the aliases in .bashrc file, 
+  --can store and export api keys
+
+
+  for eg:
+  alias srcCode="cd ~/src"
+
+  #Path
+  export pathToAPIKeys="/home/cloudshell-user/apikey.sh"
+
+  #source api keys
+  echo " I am sourcing this path :" $pathToAPIKeys
+  source $pathToAPIKeys

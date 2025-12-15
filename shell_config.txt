@@ -1,0 +1,25 @@
+
+#Shell config files
+Configuring bash.rc
+configuring .zshrc and oh-my-zsh(3rd party)
+
+
+
+Its like customizing a laptop order.
+
+
+~/.bashrc  -- . represents a file is hidden.
+
+config file is automation.
+
+
+alias --shortcuts
+source -- environment
+functions --custom code
+
+
+EFS/NFS - Centralized file systems
+
+All of the machines on a cluster will have smae user experience.
+
+
