@@ -24,3 +24,28 @@ get into conseole.
   #source api keys
   echo " I am sourcing this path :" $pathToAPIKeys
   source $pathToAPIKeys
+
+
+
+#Working with Shell variables
+
+#shell variables
+#Exporting shell variables in an interactive prompt
+
+using shell variables in a script
+
+
+#secrets should not be checked into git repo or any other wise
+
+
+export FOOD="apple"
+
+echo $FOOD
+
+echo "I Love" $FOOD
+
+
+
+#Parent/Child Shell variables
+
+
