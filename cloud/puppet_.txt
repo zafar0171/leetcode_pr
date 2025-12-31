@@ -1,0 +1,25 @@
+
+
+Puppet
+
+Cross platform tool
+open source project
+
+
+puupet 6 --latest version
+client-srver architecture
+
+
+Puppet agent - puppet master 
+
+
+Package management system
+
+for windows: -
+  -- chocolaty
+
+
+
+Puppet resources
+
+

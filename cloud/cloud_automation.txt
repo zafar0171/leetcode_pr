@@ -1,0 +1,24 @@
+
+                                                             Cofiguration Management and the cloud
+
+
+How to use automation to configure a cluster of machines.
+
+Configuration Management
+
+
+#Infrastructure as code(IaC)  -Using a version control system to depploy and manage node configurations
+
+
+Principles are applied in cloud computing.
+
+
+
+Benefits are:
+
+scalability 
+reliability
+versionable
+consistency 
+
+
