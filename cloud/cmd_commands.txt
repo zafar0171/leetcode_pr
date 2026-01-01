@@ -1,0 +1,47 @@
+
+file system browsing commands
+ls
+pwd
+cd 
+locate
+find
+
+
+
+head
+tail
+awk
+sort
+cut
+diff
+tee
+echo
+In
+alias and
+unalias
+apt and dnf
+
+Manage system repository and packages
+
+
+file and directory handling commands
+user and access control commands
+
+System and process monitoring commands
+
+Network Management commands
+
+
+hostname
+ping
+wget
+curl
+ip
+netstat
+traceroute
+nslookup
+dig
+
+
+find -- search for a file
+
